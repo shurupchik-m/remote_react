@@ -22,7 +22,7 @@ class App extends Component {
                 <h1>functional component</h1>
                 <Counter msg={msg}/>
                 <Some msg={msg1}>
-                    <h4 style={{ color: 'red' }}>test1</h4>
+                    <h4 style={{ color: 'red' }}>test2</h4>
                 </Some>
             </div>
         );
